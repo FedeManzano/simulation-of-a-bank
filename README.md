@@ -8,7 +8,7 @@ La simulación incluye:
  - Central de comunicación en Caballito
  - Oficina Jerárquica en Palermo  
 
- > Aclaración: No tocar el botón (Fast Forward Time  ```  >>```) esperar que las ips las asigne el router los hosts tomen una IP del tipo 160.15.xxx.xxx de manera automática y dinámica.
+ > ACLARACIÓN: No tocar el botón (Fast Forward Time  ```  >>```) esperar que las ips las asigne el router de forma automática del tipo 160.15.xxx.xxx.
  En el caso de no seguir esta aclaración la configuración DHCP de los host se desconfigurará.
 
  #### Ejemplo
