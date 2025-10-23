@@ -12,10 +12,6 @@ La simulación incluye:
  En el caso de no seguir esta aclaración la configuración DHCP de los host se desconfigurará.
  <b>Para saber si la red está lista, pasar el cursor por encima de los dispositivos conectados por WIFI y revisar que se encuentran en el rango 160.15.xxx.xxx, si es así todos los dispositivos de la red están conectados.</b> 
 
- #### Ejemplo
-
- ![Ejemplo Aclaración](ejemploDHCP.png) 
-
  ## Dependencias Utilizadas
 
  - [Edraw-Max](https://www.edrawmax.com) para realizar los planos
