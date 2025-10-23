@@ -21,14 +21,6 @@ La simulación incluye:
  - [Edraw-Max](https://www.edrawmax.com) para realizar los planos
  - [Logo Santander](https://www.santander.com.ar/)
 
- ## Topología 
-
-### Lógica
-![Topología](topología.png)
-
-### Física
-![Física](física.png)
-
 ## Autor
 
 - [FedericoManzano](https://github.com/FedeManzano)
